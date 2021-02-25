@@ -1,0 +1,26 @@
+body {
+  background: #080808;
+  font-family: 'Titillium Web', sans-serif;
+  color: rgb(248, 241, 241);
+}
+
+
+.navbar-brand {
+  
+  
+  font-size: 20px;
+  color: rgb(248, 241, 241);
+  font-weight: bold;
+
+}
+
+#testimonial {
+  background: #080808;
+  padding: 50px 0 30px 0;
+  text-align:center;
+  margin-top: 40px;
+}
+
+footer {
+  background: url(../img/contacto.png);
+}
